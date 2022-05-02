@@ -1,1 +1,2 @@
-# Lab_1_Integral_Riemann
+
+# Интеграл sin (x) на отезке [0,2pi]
